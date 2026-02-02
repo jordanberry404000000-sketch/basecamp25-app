@@ -1,0 +1,38 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEyMTQyLCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MDRlNkYxMTFlQmY2RkQyNTU3NmQ0ODA0ODA5NjI0MzVEYzNhYThEOCJ9",
+    "payload": "eyJkb21haW4iOiJiYXNlY2FtcDI1LmFwcCJ9",
+    "signature": "MHg0ZGI4ZjljYjM3OTlmYzRkOGY4M2M3YmVjZjAxYTkxMjMzZThmMDM1MTJiNDhhNzA3YzMwMmE4MzUwM2RhZTBiMDUzNDVjM2M2MmIxZDhlZTNiNGY1ODRkM2VhM2M5NWYxNTZmMTljYzE2YWUyYzZmYjA5M2I5OWM2MGM4Nzg4ZTFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Basecamp 2025",
+    "webhookUrl": "https://basecamp25.app/api/webhook",
+    "subtitle": "Access and manage your experience @ Basecamp",
+    "description": "Access and manage your experience @ Basecamp",
+    "iconUrl": "https://basecamp25.app/icon.png",
+    "splashImageUrl": "https://basecamp25.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://basecamp25.app",
+    "primaryCategory": "utility",
+    "heroImageUrl": "https://basecamp25.app/hero.png",
+    "tagline": "Access and manage your experience @ Basecamp",
+    "ogTitle": "Basecamp 2025",
+    "ogImageUrl": "https://basecamp25.app/hero.png",
+    "canonicalDomain": "basecamp25.app",
+    "requiredChains": [
+      "eip155:8453"
+    ],
+    "tags": [
+      "basecamp",
+      "basecamp-miniapp",
+      "basecamp25",
+      "basecamp25-miniapp"
+    ],
+    "requiredCapabilities": [
+      "actions.ready",
+      "actions.signIn",
+      "actions.openUrl"
+    ]
+  }
+}
